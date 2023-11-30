@@ -1,8 +1,8 @@
 ## How to get started
 - Clone repo
-- Run `composer install`.
-- Run `npm install`.
-- Run `npm run build`.
+- Run `composer install`
+- Run `npm install`
+- Run `npm run build`
 
 ## Add the database details in `.env` file.
 - DB_CONNECTION=`mysql`
@@ -13,8 +13,8 @@
 - DB_PASSWORD=`DB_PASSWORD`
 
 ## Run the migration and seeder commands
-- Execute `php artisan migrate`.
-- Execute `php artisan db:seed`.
+- Execute `php artisan migrate`
+- Execute `php artisan db:seed`
 
 ## To log in as an admin, use the following credentials:
 - Email: admin@mailinator.com
